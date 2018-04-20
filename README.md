@@ -51,11 +51,11 @@ Zgłoś zakończenie zadania oraz uzupełnij plan -> co było robione w jakiej k
 Dolacz listę rzeczy z ktorymi miales problem badz zajely Ci najwiecej czasu
 
 #### Wytyczne:
-Projekt stawiamy na starterze [create react app](https://github.com/facebook/create-react-app)
-Do zarządzania stanem używamy [reduxa](https://github.com/reactjs/react-redux)
-Do routingu używamy [react router [v4]](https://github.com/ReactTraining/react-router)
-Do formularzy używamy [redux form](https://github.com/erikras/redux-form)
-Do komunikacji z API używamy [axios](https://github.com/axios/axios)
-Do modali użyjmy [tego](https://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680) sposobu
-[API](https://jsonplaceholder.typicode.com/)
-Używamy ES6+
+ - Projekt stawiamy na starterze [create react app](https://github.com/facebook/create-react-app)
+ - Do zarządzania stanem używamy [reduxa](https://github.com/reactjs/react-redux)
+ - Do routingu używamy [react router [v4]](https://github.com/ReactTraining/react-router)
+ - Do formularzy używamy [redux form](https://github.com/erikras/redux-form)
+ - Do komunikacji z API używamy [axios](https://github.com/axios/axios)
+ - Do modali użyjmy [tego](https://stackoverflow.com/questions/35623656/how-can-i-display-a-modal-dialog-in-redux-that-performs-asynchronous-actions/35641680) sposobu
+ - [API](https://jsonplaceholder.typicode.com/)
+ - Używamy ES6+
